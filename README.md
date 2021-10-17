@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Linghao-Yang
-- 👀 I’m interested in Multi-sensors fusion and HD Map localization.
+- 👀 I’m interested in Multi-sensor fusion and HD Map localization.
 - 📫 linghaoyangneu@163.com
 
 <!---
